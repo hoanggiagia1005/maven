@@ -5,7 +5,7 @@
     <!--  that they should prefer consuming it instead.  -->
     <!--  do_not_remove: published-with-gradle-metadata  -->
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org</groupId>
+    <groupId>com.github.instagram4j</groupId>
     <artifactId>instagram4j</artifactId>
     <version>2.0.3-hoanggiagia1005-1</version>
     <name>instagram4j</name>
