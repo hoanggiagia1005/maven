@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.instagram4j</groupId>
     <artifactId>instagram4j</artifactId>
-    <version>2.0.3-hoanggiagia1005-2</version>
+    <version>2.0.3-hoanggiagia1005-3</version>
     <name>instagram4j</name>
     <description>Java HTTP Client for Instagram</description>
     <url>https://github.com/instagram4j/instagram4j</url>
